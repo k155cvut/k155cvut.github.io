@@ -1,7 +1,7 @@
 # Toto je takový pěkný rozcestník předmětů, které mají hezkou dokumentaci
 
-<a href="[https://org.github.io/jedna](https://k155cvut.github.io/weka/)"Třeba Webová kartografie</a>
+[Třeba Webová kartografie](https://k155cvut.github.io/weka/)
 
-<a href="[https://org.github.io/jedna](https://k155cvut.github.io/kar2/)"Nebo Kartografie 2</a>
+[Nebo Kartografie 2](https://k155cvut.github.io/kar2/)
 
-<a href="[https://org.github.io/jedna](https://k155cvut.github.io/kar3/)"Či Kartografie 3</a>
+[Či Kartografie 3](https://k155cvut.github.io/kar3/)
