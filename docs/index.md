@@ -97,6 +97,21 @@
 
 </div>
 
+<div class="grid cards" markdown>
+
+-   
+    <a href="https://geo.fsv.cvut.cz/vyuka/155fgis"> ![](./assets/fgis.png){ .off-glb } <a>
+
+    [__Free Software GIS__](https://geo.fsv.cvut.cz/vyuka/155fgis){ .md-button .md-button--primary }
+
+    __Garant:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/)
+
+    __Vyučující:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/), [Ing. Ondřej Pešek, PhD.](https://geomatics.fsv.cvut.cz/employees/ondrej-pesek/)
+
+-   
+
+</div>
+
 
 ## 3. semestr
 <div class="grid cards" markdown>
