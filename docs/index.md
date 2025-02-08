@@ -108,7 +108,7 @@
 
     __Garant:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/)
 
-    __Vyučující:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/), [Ing. Ondřej Pešek, PhD.](https://geomatics.fsv.cvut.cz/employees/ondrej-pesek/), [Ing. Lukáš Brodský, PhD.](https://is.cuni.cz/webapps/whois2/osoba/1066341682237815/?lang=cs)
+    __Vyučující:__ [Ing. Ondřej Pešek, PhD.](https://geomatics.fsv.cvut.cz/employees/ondrej-pesek/), [Ing. Lukáš Brodský, PhD.](https://is.cuni.cz/webapps/whois2/osoba/1066341682237815/?lang=cs), [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/)
 
 -    <a href="https://k155cvut.github.io/yv3d/"> ![](https://geo.fsv.cvut.cz/data/muzik/MKDocs/main/yv3d_main.png){ .off-glb } <a>
 
