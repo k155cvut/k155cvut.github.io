@@ -72,6 +72,16 @@
 
     __Vyučující:__ [Ing. Eva Matoušková, Ph.D.](https://geomatics.fsv.cvut.cz/employees/eva-matouskova/), [Ing. Tomáš Bouček](https://geomatics.fsv.cvut.cz/employees/tomas-boucek/)
 
+-   <a href="https://geo.fsv.cvut.cz/vyuka/155uzpr/"> ![](./assets/uzpr.png){ .off-glb } <a>
+
+    [__Úvod do zpracování prostorových dat__](https://geo.fsv.cvut.cz/vyuka/155uzpr){ .md-button .md-button--primary }
+
+    __Garant:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/)
+
+    __Vyučující:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/), [Ing. Ondřej Pešek, PhD.](https://geomatics.fsv.cvut.cz/employees/ondrej-pesek/)
+
+-   
+
 </div>
 
 ## 2. semestr
