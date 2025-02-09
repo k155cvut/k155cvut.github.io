@@ -17,7 +17,7 @@
 
 -    <a href="https://k155cvut.github.io/kar1/"> ![](./assets/kar1_main.png){ .off-glb } <a>
 
-    [__Kartografie 1__](https://k155cvut.github.io/kar1/){ .md-button .md-button--primary }
+    [__Kartografie 1__](){ .md-button .md-button--primary }
 
     __Garant:__ [Prof. Ing. Jiří Cajthaml, Ph.D.](https://geomatics.fsv.cvut.cz/employees/jiri-cajthaml/)
 
