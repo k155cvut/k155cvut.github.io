@@ -250,24 +250,40 @@ div.table_centered .md-typeset__scrollwrap {text-align: center;}
   }
 
 
-  :root {
-    --md-accent-fg-color: #066b61;
-    --md-primary-fg-color: #009485;
+  :root  > * {                         /* color palette for the default mode */
+    --md-primary-fg-color:#002d56;
+    --md-accent-fg-color: #264C6F;
   }
 
+  [data-md-color-scheme="slate"] {     /* color palette for the dark mode (they differ because of better contrast/clarity) */
+    --md-primary-fg-color:#0065BD;
+    --md-accent-fg-color: #6AADE4;
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  /* --------------------------------------------------------------- */
+  /* PREPARATION FOR LOCAL FONT USAGE (the official university font) */
+  /* --------------------------------------------------------------- */
+  /* @font-face { */
+    /* font-family: "Technika";  */
+    /* font-weight: normal;  */
+    /* font-style: normal; */
+    /* src: url("../assets/fonts/Technika-Regular.ttf"); */
+  /* } */
+  
+  /* @font-face { */
+    /* font-family: "Technika";  */
+    /* font-weight: bold;  */
+    /* font-style: normal; */
+    /* src: url("../assets/fonts/Technika-Bold.ttf"); */
+  /* } */
+  
+  /* @font-face { */
+    /* font-family: "Technika";  */
+    /* font-weight: normal;  */
+    /* font-style: italic; */
+    /* src: url("../assets/fonts/Technika-Italic.ttf"); */
+  /* } */
+  
+  /* :root { */
+    /* --md-text-font: "Technika"; */
+  /* } */

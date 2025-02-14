@@ -87,3 +87,4 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.caret
   - pymdownx.tilde
+  - abbr
