@@ -168,11 +168,11 @@
 
 -   <a href="https://geo.fsv.cvut.cz/vyuka/155fgis"> ![](./assets/kar3_main.png){ .off-glb } <a>
 
-    [__Cartography__](https://geo.fsv.cvut.cz/vyuka/155cart){ .md-button .md-button--primary }
+    [__Cartography__](https://k155cvut.github.io/cart/){ .md-button .md-button--primary }
 
     __Lectures:__ [Prof. Ing. Jiří Cajthaml, PhD.](https://geomatics.fsv.cvut.cz/employees/jiri-cajthaml/)
 
-    __Practicals:__ [Ing. Tomáš Janata, Ph.D.](https://geomatics.fsv.cvut.cz/employees/tomas-janata/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/
+    __Practicals:__ [Ing. Tomáš Janata, Ph.D.](https://geomatics.fsv.cvut.cz/employees/tomas-janata/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/)
 
 -   
     
