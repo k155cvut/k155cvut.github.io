@@ -177,3 +177,25 @@
 -   
     
 </div>
+
+<center> <h2 style="color: gray; font-size:35px;"> Ostatní vyučované předměty </h2> </center>
+<div class="grid cards" markdown>
+
+-   
+    <a href="https://k155cvut.github.io/ygis/"> ![](./assets/gis1_main.png){ .off-glb } <a>
+
+    [__ArcGIS - Geografické informační systémy__](https://k155cvut.github.io/ygis/  ){ .md-button .md-button--primary }
+
+    __Garant:__ [Prof. Ing. Jiří Cajthaml, PhD.](https://geomatics.fsv.cvut.cz/employees/jiri-cajthaml/)
+
+    __Vyučující:__ [Ing. Tomáš Janata, Ph.D.](https://geomatics.fsv.cvut.cz/employees/tomas-janata/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Vojtěch Cehák](https://geomatics.fsv.cvut.cz/employees/vojtech-cehak/)
+
+-    <a href="https://k155cvut.github.io/sgea/"> ![](./assets/sgea_main.png){ .off-glb } <a>
+
+    [__Stavební geodézie A - část GIS__](https://k155cvut.github.io/sgea/){ .md-button .md-button--primary }
+
+    __Garant:__ [Prof. Ing. Martin Štroner, Ph.D.](https://k154.fsv.cvut.cz/~stroner/)
+
+    __Vyučující:__ [Prof. Ing. Jiří Cajthaml, PhD.](https://geomatics.fsv.cvut.cz/employees/jiri-cajthaml/), [Ing. Vojtěch Cehák](https://geomatics.fsv.cvut.cz/employees/vojtech-cehak/), [Ing. Jan Koudelka](https://geomatics.fsv.cvut.cz/employees/jan-koudelka/), [Ing. Tomáš Janata, PhD.](https://geomatics.fsv.cvut.cz/employees/tomas-janata/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. František Mužík](https://geomatics.fsv.cvut.cz/employees/frantisek-muzik/), [Ing. Vojtěch Müller](https://geomatics.fsv.cvut.cz/employees/vojtech-muller/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/), [Ing. Jaroslav Šedina, PhD.](https://geomatics.fsv.cvut.cz/employees/jaroslav-sedina/), 
+
+</div>
