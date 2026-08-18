@@ -219,7 +219,7 @@
 
     __Practicals:__ [Ing. Jan Koudelka](https://geomatics.fsv.cvut.cz/employees/jan-koudelka/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/)
 
--   <a href="https://geo.fsv.cvut.cz/vyuka/155fgis"> ![](./assets/kar3_main.png){ .off-glb } <a>
+-   <a href="https://geo.fsv.cvut.cz/cart"> ![](./assets/kar3_main.png){ .off-glb } <a>
 
     [__Cartography__](https://k155cvut.github.io/cart/){ .md-button .md-button--primary }
 
