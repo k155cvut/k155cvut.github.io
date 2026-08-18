@@ -160,39 +160,6 @@
 </div>
 
 
-<center> <h2 style="color: gray; font-size:35px;"> List of Erasmus courses </h2> </center>
-
-<div class="grid cards" markdown>
-
--   
-    <a href="https://geo.fsv.cvut.cz/courses/155isdp/"> ![](./assets/isdp_main.png){ .off-glb } <a>
-
-    [__Introduction into geospatial data processing__](https://geo.fsv.cvut.cz/courses/155isdp/){ .md-button .md-button--primary }
-
-    __Garant:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/)
-
-    __Vyučující:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/), [Ing. Ondřej Pešek, PhD.](https://geomatics.fsv.cvut.cz/employees/ondrej-pesek/)
-
--    <a href="https://k155cvut.github.io/gise/"> ![](./assets/gise_main.png){ .off-glb } <a>
-
-    [__Geographic Information Systems__](https://k155cvut.github.io/gise/){ .md-button .md-button--primary }
-
-    __Lectures:__ [Prof. Ing. Jiří Cajthaml, PhD.](https://geomatics.fsv.cvut.cz/employees/jiri-cajthaml/), [Ing. Tomáš Janata, PhD.](https://geomatics.fsv.cvut.cz/employees/tomas-janata/)
-
-    __Practicals:__ [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/), [Ing. Vojtěch Cehák](https://geomatics.fsv.cvut.cz/employees/vojtech-cehak/)
-
--   <a href="https://geo.fsv.cvut.cz/vyuka/155fgis"> ![](./assets/kar3_main.png){ .off-glb } <a>
-
-    [__Cartography__](https://k155cvut.github.io/cart/){ .md-button .md-button--primary }
-
-    __Lectures:__ [Prof. Ing. Jiří Cajthaml, PhD.](https://geomatics.fsv.cvut.cz/employees/jiri-cajthaml/)
-
-    __Practicals:__ [Ing. Tomáš Janata, Ph.D.](https://geomatics.fsv.cvut.cz/employees/tomas-janata/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/)
-
--   
-    
-</div>
-
 <center> <h2 style="color: gray; font-size:35px;"> Ostatní vyučované předměty </h2> </center>
 <div class="grid cards" markdown>
 
@@ -229,3 +196,38 @@
 -   
 
 </div>
+
+
+<center> <h2 style="color: gray; font-size:35px;"> List of Erasmus courses </h2> </center>
+
+<div class="grid cards" markdown>
+
+-   
+    <a href="https://geo.fsv.cvut.cz/courses/155isdp/"> ![](./assets/isdp_main.png){ .off-glb } <a>
+
+    [__Introduction into geospatial data processing__](https://geo.fsv.cvut.cz/courses/155isdp/){ .md-button .md-button--primary }
+
+    __Garant:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/)
+
+    __Vyučující:__ [Ing. Martin Landa, PhD.](https://geomatics.fsv.cvut.cz/employees/martin-landa/), [Ing. Ondřej Pešek, PhD.](https://geomatics.fsv.cvut.cz/employees/ondrej-pesek/)
+
+-    <a href="https://k155cvut.github.io/gise/"> ![](./assets/gise_main.png){ .off-glb } <a>
+
+    [__Geographic Information Systems__](https://k155cvut.github.io/gise/){ .md-button .md-button--primary }
+
+    __Lectures:__ [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/)
+
+    __Practicals:__ [Ing. Jan Koudelka](https://geomatics.fsv.cvut.cz/employees/jan-koudelka/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/)
+
+-   <a href="https://geo.fsv.cvut.cz/vyuka/155fgis"> ![](./assets/kar3_main.png){ .off-glb } <a>
+
+    [__Cartography__](https://k155cvut.github.io/cart/){ .md-button .md-button--primary }
+
+    __Lectures:__ [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/)
+
+    __Practicals:__ [Ing. Jan Koudelka](https://geomatics.fsv.cvut.cz/employees/jan-koudelka/), [Mgr. Petra Justová, Ph.D.](https://geomatics.fsv.cvut.cz/employees/petra-justova/), [Ing. Josef Münzberger](https://geomatics.fsv.cvut.cz/employees/josef-munzberger/)
+
+-   
+    
+</div>
+
